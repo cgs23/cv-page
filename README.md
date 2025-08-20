@@ -1,1 +1,1 @@
-Yo :)
+My CV like website, based on the lovely [Start Bootstrap theme](https://startbootstrap.com/theme/resume).
